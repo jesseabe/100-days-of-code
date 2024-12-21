@@ -14,6 +14,7 @@ print(states_of_america[random_index])
 print(len(states_of_america)-1)
 
 #---------------------------#
+#Two lists
 fruits = ["Strawberries", "Nectarines", "Apples", "Grapes", "Peaches", "Cherries", "Pears"]
 vegetables = ["Spinach", "Kale", "Tomatoes", "Celery", "Potatoes"]
  

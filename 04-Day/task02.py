@@ -1,6 +1,6 @@
 import random
 
-#Rock, Paper or Scissors
+# Game Rock, Paper or Scissors
 
 game_images = ["Rock", "Paper", "Sissors"]
 
