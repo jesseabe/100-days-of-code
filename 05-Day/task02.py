@@ -14,11 +14,11 @@ print(total)
 
 #FizzBuzz Game
 for number in range(1, 101):  # Loop from 1 to 100 (inclusive)
-    if number % 3 == 0 and number % 5 == 0:  # Divisible by both 3 and 5
+    if number % 3 == 0 and number % 5 == 0: 
         print("FizzBuzz")
-    elif number % 3 == 0:  # Divisible by 3
+    elif number % 3 == 0:
         print("Fizz")
-    elif number % 5 == 0:  # Divisible by 5
+    elif number % 5 == 0:
         print("Buzz")
     else:
-        print(number)  # Not divisible by 3 or 5
+        print(number)  
