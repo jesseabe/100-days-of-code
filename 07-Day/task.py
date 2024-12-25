@@ -1,6 +1,6 @@
 import random
 
-# Hangman
+# Hangman game
 word_list = ["aardvark", "baboon", "camel"]
 
 lives = 6 
